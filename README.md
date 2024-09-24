@@ -53,3 +53,10 @@ concerns. In summary the Skin Care Recommendation
 System project combines image classification, machine 
 learning and user interface design to create a practical and 
 effective tool for personalised recommendation
+
+
+![Screenshot 2024-09-24 112436](https://github.com/user-attachments/assets/ca4d3e79-bca2-447c-b344-4667a7c998e8)
+![Screenshot (142)](https://github.com/user-attachments/assets/be2e488e-9629-4d67-8db7-724560d1edac)
+![Screenshot (147)](https://github.com/user-attachments/assets/60e10970-3532-498c-afdc-4826c2275351)
+![Screenshot (146)](https://github.com/user-attachments/assets/ae6ba009-3aa5-4088-bd13-f7f1e6cce785)
+
